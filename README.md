@@ -1,4 +1,4 @@
-# Proyecto: Aplicación Spring Boot 3
+# Proyecto: Vollmed Api SpringBoot 3
 
 Este repositorio contiene el código del proyecto desarrollado como parte del curso de **Spring Boot 3** ofrecido por **Alura Latam**. El proyecto incluye la implementación de una aplicación backend que utiliza Spring Boot 3 en Java y bases de datos relacionales como **MySQL** y **PostgreSQL**. Además, se realizaron pruebas de API con **Insomnia**.
 
